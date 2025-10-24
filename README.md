@@ -1,7 +1,3 @@
-# template-eCommerce-website
-Here’s a polished **GitHub project description** you can use (you can tweak the tone depending on whether you want it to sound more professional or casual):
-
----
 
 ## 🛍️ E-Commerce Website Template
 
@@ -25,6 +21,4 @@ A **fully interactive, user-friendly E-Commerce website template** built using *
 
 Use this project as a **foundation** for your next E-Commerce website or as a **learning reference** to understand how a front-end store can be built from scratch using core web technologies.
 
----
 
-Would you like me to make it sound **more professional (for recruiters)** or **more casual (for students/developers)**? I can tailor it to your GitHub audience.
